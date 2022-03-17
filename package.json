@@ -1,0 +1,35 @@
+{
+  "name": "paginapessoal",
+  "version": "1.0.0",
+  "description": "Learning bootstrap v5 with SaaS\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[+\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CSaaS",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatrizmakowski/PaginaPessoal.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass"
+  ],
+  "author": "Beatriz Makowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beatrizmakowski/PaginaPessoal/issues"
+  },
+  "homepage": "https://github.com/beatrizmakowski/PaginaPessoal#readme",
+  "devDependencies": {
+    "postcss": "^8.4.8",
+    "postcss-cli": "^9.1.0",
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.0.0",
+    "@popperjs/core": "^2.11.3",
+    "autoprefixer": "^10.4.2",
+    "bootstrap": "^5.1.3"
+  }
+}
